@@ -1,0 +1,24 @@
+{
+    "name": "test-nodejs-api",
+    "version": "1.0.0",
+    "description": "Simple Node.js API for testing deployment",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "api",
+        "test"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
